@@ -1,0 +1,5 @@
+Neste código, foi criada uma lista encadeada para armazenar os clientes e seus valores gastos. 
+A classe Cliente representa um cliente com seu nome e valor gasto. 
+A classe Lista possui métodos para inserir um cliente na lista e calcular a média dos valores gastos pelos clientes.
+No teste realizado, foram inseridos 3 clientes com valores gastos diferentes e em seguida foi calculada a média do valor gasto por cliente.
+Para realizar mais testes, basta adicionar mais clientes com valores diferentes e calcular novamente a média.
